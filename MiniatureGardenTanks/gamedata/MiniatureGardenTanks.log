@@ -1,0 +1,98 @@
+﻿  ModelObject.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  Object.cpp
+  ObjectIdManager.cpp
+  SoundObject.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  Transform.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  CameraBase.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  PlayerCamera.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  ControllerBase.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  ControllerEnemy.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\charactershot\shotmanager.h(32): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  ControllerPlayer.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\charactershot\shotmanager.h(32): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  EnemyAiFunctions.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  CharacterShot.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  ShotManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\charactershot\shotmanager.h(32): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  CharacterBase.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  CharacterEffectFunctions.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  CharacterEnemy.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  CharacterManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  CharacterPlayer.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  BoxCollider.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  CircularSectorCollider.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  コンパイル中...
+  CollisionCheckFunction.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  CollisionManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  SphereCollider.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  AsyncLoadData.cpp
+  DebugWindow.cpp
+  ErrorMessage.cpp
+  HelperFunction.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  Input.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  main.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  Math3D.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  Raycast.cpp
+  RaycastManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  ResourceEffectManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  ResourceModelManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  ResourceSoundManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  ResourceSpriteManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  SceneBase.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\charactershot\shotmanager.h(32): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  SceneLoading.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  SceneMain.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\charactershot\shotmanager.h(32): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  SceneManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  コンパイル中...
+  SceneResult.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  SceneTitle.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  StageManager.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  TerrainBase.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  TerrainGround.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  TerrainWall.cpp
+d:\creategames\miniaturegardentanks\miniaturegardentanks\data\sourcefiles\others\define.h(80): warning C4267: 'return': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  コード生成しています。
+  All 3847 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+EffekseerForDXLib_vs2017_x64.lib(EffekseerForDXLib.obj) : warning LNK4099: PDB 'EffekseerForDXLib_vs2017.pdb' が 'EffekseerForDXLib_vs2017_x64.lib(EffekseerForDXLib.obj)' で、または 'D:\CreateGames\MiniatureGardenTanks\MiniatureGardenTanks\x64\Release\EffekseerForDXLib_vs2017.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  MiniatureGardenTanks.vcxproj -> D:\CreateGames\MiniatureGardenTanks\MiniatureGardenTanks\x64\Release\MiniatureGardenTanks.exe
